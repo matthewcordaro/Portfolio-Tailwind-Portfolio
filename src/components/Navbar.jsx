@@ -4,7 +4,7 @@ import { links } from "../data"
 function Navbar() {
   return (
     <nav className='bg-matt-blue-100'>
-      <div className='mx-auto max-w-7xl px-8 py-4 flex flex-col sm:flex-row sm:gap-x-16 sm:items-center sm:py-8'>
+      <div className='align-element py-4 flex flex-col sm:flex-row sm:gap-x-16 sm:items-center sm:py-8'>
         <h2 className='text-3xl font-bold'>
           Web<span className='text-matt-blue-600'>Dev</span>
         </h2>
